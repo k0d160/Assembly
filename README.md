@@ -1,1 +1,1 @@
-# Learning Assembly.
+# A collection of Assembly programs.
